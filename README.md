@@ -4,7 +4,7 @@
 This repository contains a hands-on deployment exercise transitioning from an "owned infrastructure" model to a "utility computing" model. The project demonstrates the practical application of core cloud computing characteristics and service delivery models.
 
 ## Live Deployment
-🚀 **[View the Live Site Here](https://cloud-intro-lab-0om3.onrender.com)**
+🚀 [View the Live Site Here](https://cloud-intro-lab-0om3.onrender.com)
 
 ## Cloud Concepts Applied
 * **Software as a Service (SaaS):** Utilized GitHub for version control and repository management without manual administrative overhead.
@@ -16,3 +16,11 @@ This repository contains a hands-on deployment exercise transitioning from an "o
 * **Frontend:** HTML5, CSS3
 * **Version Control:** Git & GitHub (SaaS)
 * **Hosting/Deployment:** Render (PaaS)
+
+---
+
+## 📁 Final Deliverables
+The final submission reports containing the deployment URLs and the academic analysis of the PaaS cloud model can be viewed here:
+
+* [📄 Lab 1 Final Report (PDF)](./Exploring%20the%20Cloud%20Service%20Stack%20Final.pdf)
+* [📝 Lab 1 Final Report (DOCX)](./Exploring%20the%20Cloud%20Service%20Stack.docx)
